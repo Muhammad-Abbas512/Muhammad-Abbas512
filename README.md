@@ -1,7 +1,5 @@
 # 💫 About Me:
-I am a passionate Front-End Developer with <br>experience in building modern, responsive, and interactive web applications.<br>Also I am c++ Developer with alots of DS practice Questions.<br> I enjoy creating project-based learning projects using JavaScript and React, and continuously improving my skills in front-end technologies. also Learned Python, C++<br><br>Programming Languages:<br><br>JavaScript (ES6+)<br><br>HTML5<br><br>CSS3<br><br>Python<br>c++<br><br>Front-End Frameworks & Libraries:<br><br>React.js<br><br>Bootstrap<br> Tailwind CSS<br><br>Swiper.js (for galleries/sliders)<br><br>
-
-
+I am a passionate Front-End Developer with <br>experience in building modern, responsive, and interactive web applications.<br>Also I am c++ Developer with alots of DS practice Questions.<br> I enjoy creating project-based learning projects using JavaScript and React, and continuously improving my skills in front-end technologies. also Learned Python, C++.
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/muhammadabbas.soomro.10) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/itxabbass/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/muhammad-abbas-a22ab1325/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:soomromuhammadabbas671@gmail.com) 
 
