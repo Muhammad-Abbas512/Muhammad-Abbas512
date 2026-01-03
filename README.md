@@ -1,77 +1,27 @@
-<div align="center">
+# 💫 About Me:
+I am a passionate Front-End Developer with <br>experience in building modern, responsive, and interactive web applications.<br>Also I am c++ Developer with alots of DS practice Questions.<br> I enjoy creating project-based learning projects using JavaScript and React, and continuously improving my skills in front-end technologies. also Learned Python, C++<br><br>Programming Languages:<br><br>JavaScript (ES6+)<br><br>HTML5<br><br>CSS3<br><br>Python<br>c++<br><br>Front-End Frameworks & Libraries:<br><br>React.js<br><br>Bootstrap<br> Tailwind CSS<br><br>Swiper.js (for galleries/sliders)<br><br>
 
-  # Hi there, I'm Muhammad Abbas! 👋
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=2000&color=36BCF7&center=true&vCenter=true&width=600&lines=Front-End+Developer;JavaScript+%7C+HTML+%7C+CSS;React+%7C+Node.js" alt="Typing SVG" />
 
-  <br/>
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/muhammadabbas.soomro.10) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/itxabbass/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/muhammad-abbas-a22ab1325/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:soomromuhammadabbas671@gmail.com) 
 
-  <a href="https://www.linkedin.com/in/muhammad-abbas512/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.facebook.com/abbas.dev512">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" />
-  </a>
-  <a href="mailto:muhammad.abbas512@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/abbas.dev512/">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
-  </a>
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Muhammad-Abbas512&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Muhammad-Abbas512&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Abbas512&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-  <br/>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Muhammad-Abbas512&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-</div>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-
-### 🧠 Interests & Passion
-*Front-End Development, UI/UX Design, Web Animations, Project-Based Learning*
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Project_Based_Learning-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/UI%2FUX_Design-FF6F61?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Web_Animations-36BCF7?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Muhammad-Abbas512&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Muhammad-Abbas512&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 💻 Programming Languages
-
-**🚀 Primary**
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
-**🧩 Secondary**
-<p align="left">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-</p>
-
----
-
-### ⚙️ Tools & Frameworks
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VsCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/SwiperJS-FF69B4?style=for-the-badge&logo=javascript&logoColor=white" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Abbas512&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="stats" />
-</div>
-
-<div align="center">
-  <br/>
-  <i>Let's build clean and modern web experiences together!</i>
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
