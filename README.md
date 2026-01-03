@@ -1,4 +1,8 @@
-# 💫 About Me:
+<div align="center">
+
+  # Hi there, I'm Muhammad Abbas! 👋
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=2000&color=36BCF7&center=true&vCenter=true&width=600&lines=C++ Developer;Front-End+Developer;JavaScript+%7C+HTML+%7C+CSS;React+%7C+Express.js" alt="Typing SVG" />
+
 I am a passionate **Front-End Developer** withexperience in building modern, responsive, and interactive web applications.Also I am **c++ Developer** with alots of DS practice Questions. Currently Learning **MERN Stack Developer** I enjoy creating project-based learning projects using JavaScript and React, and continuously improving my skills in front-end technologies. also Learned Python, C++.
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/muhammadabbas.soomro.10) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/itxabbass/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/muhammad-abbas-a22ab1325/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:soomromuhammadabbas671@gmail.com) 
